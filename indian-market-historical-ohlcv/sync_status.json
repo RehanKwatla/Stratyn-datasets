@@ -1,0 +1,30 @@
+{
+  "last_sync_utc": "2026-10-26T06:26:33.791045+00:00",
+  "repo_id": "vishnun0027/indian-market-historical-ohlcv",
+  "stats": {
+    "total_files": 2704,
+    "total_size_bytes": 304017052,
+    "asset_types": {
+      "stocks": {
+        "files": 2654,
+        "size_bytes": 294968257
+      },
+      "indices": {
+        "files": 17,
+        "size_bytes": 3212817
+      },
+      "etfs": {
+        "files": 17,
+        "size_bytes": 2099090
+      },
+      "commodities": {
+        "files": 8,
+        "size_bytes": 1840475
+      },
+      "forex": {
+        "files": 8,
+        "size_bytes": 1896413
+      }
+    }
+  }
+}
